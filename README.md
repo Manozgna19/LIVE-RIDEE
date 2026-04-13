@@ -1,2 +1,3 @@
-# LIVE-RIDEE
-This repo contains a live ride and booking application where a daily commute workers can book their ride for the same route using subscriptions
+# Existing ride-hailing platforms focus mainly on instant booking and are not suitable for daily commuting. Users face high costs due to surge pricing, ride availability issues, and reduced safety during night or bad weather. There is no proper support for subscription plans, ride scheduling, fixed-route travel, or structured carpooling, making daily travel less affordable and reliable.
+
+# The system introduces advanced features such as subscription-based ride plans, ride scheduling, and carpooling for users traveling on the same route and time, reducing travel costs and improving convenience.
